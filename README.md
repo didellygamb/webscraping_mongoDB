@@ -9,6 +9,6 @@ Importante salientar que antes de usar a técnica, o responsável pela extraçã
 Os dados usados foram extraídos do site Omelete: site brasileiro de entretenimento que aborda alguns temas da cultura pop como cinema, HQs, música, televisão e jogos eletrônicos. O site possui a página de /robots.txt onde foram conferidas as permisões. 
 
 ## 🎯 Conclusão 
-O projeto serviu para praticar as técnicas e ferramentas citadas e assim pude obter maior conhecimento pelo tema. 
+O projeto serviu para praticar o uso das técnicas e ferramentas citadas e assim pude obter maior conhecimento sobre os temas. 
 
 ![image](https://github.com/didellygamb/webscraping_mongoDB/assets/109447846/2bf22621-e408-482e-ba28-1bb475eaf848)
